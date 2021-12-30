@@ -6,6 +6,8 @@ pip3 install django-allauth==0.41.0
 
 pip3 install pillow
 
+pip3 install django-crispy-forms
+
 ---
 
 That's it. Try to get some sleep.
