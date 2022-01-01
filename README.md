@@ -8,6 +8,8 @@ pip3 install pillow
 
 pip3 install django-crispy-forms
 
+pip3 install stripe
+
 ---
 
 That's it. Try to get some sleep.
