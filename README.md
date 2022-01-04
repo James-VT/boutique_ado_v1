@@ -10,6 +10,10 @@ pip3 install django-crispy-forms
 
 pip3 install stripe
 
+pip3 install django-countries
+
+pip3 freeze > requirements.txt
+
 ---
 
 That's it. Try to get some sleep.
