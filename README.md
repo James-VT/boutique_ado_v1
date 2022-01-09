@@ -1,4 +1,4 @@
-Alright sausage, putting this here because you'll inevitably forget this stuff.
+Alright, putting this here because you'll inevitably forget this stuff.
 
 You made this project during a period that straddled several of Gitpod's regular meltdowns (sorry, "updates") and so its dependencies/requirements ended up completely borked. Every single time this workspace is re-opened/re-loaded, you need to add allauth and pillow back into it. If we end up adding any other dependencies later on, the same thing will probably have to happen with those. Pump these into the terminal:
 
