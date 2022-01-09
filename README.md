@@ -12,6 +12,10 @@ pip3 install stripe
 
 pip3 install django-countries
 
+pip3 install dj_database_url
+
+pip3 install psycopg2-binary
+
 pip3 freeze > requirements.txt
 
 ---
