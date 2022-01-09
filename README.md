@@ -22,4 +22,4 @@ pip3 freeze > requirements.txt
 
 ---
 
-That's it. Try to get some sleep.
+Try to get some sleep.
