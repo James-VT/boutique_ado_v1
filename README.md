@@ -18,6 +18,10 @@ pip3 install psycopg2-binary
 
 pip3 install gunicorn
 
+pip3 install boto3
+
+pip3 install django-storages
+
 pip3 freeze > requirements.txt
 
 ---
